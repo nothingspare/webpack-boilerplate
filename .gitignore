@@ -1,0 +1,7 @@
+dist/*
+node_modules
+docs
+openapi
+
+*-lock.json
+.DS_STORE
